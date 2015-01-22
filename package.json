@@ -1,12 +1,12 @@
 {
-  "name": "unacademic_cards",
+  "name": "skeleton",
   "version": "0.0.0",
   "description": "The cards for the unacademic-ui, perhaps with sidebar",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "E van Zummeren, R Chavers, RJ Korteschiel",
+  "author": "RJ Korteschiel",
   "license": "MIT",
   "devDependencies": {
     "browser-sync": "^1.9.1",
